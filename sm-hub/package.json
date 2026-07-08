@@ -1,8 +1,0 @@
-{
-  "name": "sm-hub",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@vercel/blob": "^2.6.0"
-  }
-}
